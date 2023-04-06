@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/dlask913" target="_blank"><img src="https://img.shields.io/badge/limnj-000000?style=for-the-badge"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlask913&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlask913&show_icons=true&theme=dark)
