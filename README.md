@@ -54,7 +54,6 @@
 <div align="center">
 
   🌟 From here: 
-  **[Blog](https://letusdevelop) | 
-  [Portfolio](#)** 🌟
+  **[Blog](https://letusdevelop.tistory.com)** 🌟
 
 </div>
