@@ -1,29 +1,60 @@
-### Hi there 👋
-<!--
-**dlask913/dlask913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <!-- 배경 이미지와 타이틀 -->
+  <h3>🚀 HI! I'm <strong>Lim Na-jeong</strong>! 🚀</h3>
+  
+  <!-- 소개 -->
+  <p>
+    Specializing in Backend Development with <strong>Spring, Java, and AWS</strong>.<br>
+    Always exploring cloud solutions and driven by passion to create robust systems.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlask913&show_icons=true&theme=dark) -->
-<h2>📚 STACKS</h2>
-<div> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+---
+
+## 🔧 Technologies & Tools
+
+<div align="center">
+
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+
+  <!-- Spring -->
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
+
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+
+  <!-- Oracle -->
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"/>
+
+  <!-- MySQL -->
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+
+  <!-- Docker -->
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+
+  <!-- AWS -->
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  ![Lim Na-jeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlask913&show_icons=true&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dlask913&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+  🌟 From here: 
+  **[Blog](https://letusdevelop) | 
+  [Portfolio](#)** 🌟
+
 </div>
