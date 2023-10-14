@@ -20,11 +20,11 @@
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
 
-  <!-- Spring -->
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
-
   <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  
+  <!-- Spring -->
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
 
   <!-- Oracle -->
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"/>
