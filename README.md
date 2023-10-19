@@ -45,7 +45,7 @@
 <div align="center">
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlask913&show_icons=true&theme=radical" width="49%" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=dlask913&show_icons=true&theme=radical" width="49%" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlask913&theme=radical" width="49%" />
   </div>
 
